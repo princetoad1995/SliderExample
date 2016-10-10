@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SliderAppExample</string>
+    <string name="title_activity_welcome">Màn hình chính</string>
+    <string name="next">TIẾP</string>
+    <string name="skip">BỎ QUA</string>
+    <string name="start">ĐÃ HIỂU</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">Cách dễ nhất để đặt món ăn từ nhà hàng yêu thích của bạn!</string>
+
+    <string name="slide_2_title">Vé xem phim</string>
+    <string name="slide_2_desc">Đặt vé xem phim cho gia đình và bạn bè của bạn!</string>
+
+    <string name="slide_3_title">Đại hạ giá</string>
+    <string name="slide_3_desc">Giảm giá tốt nhất trên mỗi một dịch vụ chúng tôi cung cấp!</string>
+
+    <string name="slide_4_title">Du lịch thế giới</string>
+    <string name="slide_4_desc">Đặt vé của bất kỳ lộ trình và du lịch thế giới!</string>
+
+    <string name="play_again_desc">Để xem lại Slider lần nữa, tới Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Chạy lại</string>
+</resources>
